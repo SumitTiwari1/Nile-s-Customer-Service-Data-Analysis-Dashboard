@@ -1,6 +1,8 @@
 # Nile-s-Customer-Service-Data-Analysis-And Dashboard Using Excel
 Explore Nile's Customer Service Data Analysis using Excel! In this repository, I've dissected Nile's customer service data to uncover insights and trends using powerful Excel tools. From analyzing call volumes to tracking resolution times, each sheet provides valuable insights for optimizing customer service operations. Additionally, check out the Excel dashboard I've created to visualize key metrics at a glance, offering a comprehensive view of customer service performance. Dive in, explore the data, and discover actionable insights to enhance Nile's customer service experience!
 
+![image](https://github.com/SumitTiwari1/Nile-s-Customer-Service-Data-Analysis-Dashboard/assets/167782156/d1740fb1-b839-4904-99ce-25d59d137589)
+
 Project Goals:
 • Customer Sentiment Analysis: Perform sentiment analysis on customer 
 interactions. Identify positive, negative, and neutral sentiments expressed by 
