@@ -5,6 +5,7 @@ Explore Nile's Customer Service Data Analysis using Excel! In this repository, I
 
 Project Goals:
 • Customer Sentiment Analysis: 
+
 Perform sentiment analysis on customer 
 interactions. Identify positive, negative, and neutral sentiments expressed by 
 customers to understand overall satisfaction levels.
@@ -12,6 +13,7 @@ customers to understand overall satisfaction levels.
 ![image](https://github.com/SumitTiwari1/Nile-s-Customer-Service-Data-Analysis-Dashboard/assets/167782156/67655067-f345-41af-90d3-5b7ee63cdd8a)
 
 • Root Cause Analysis: 
+
 Investigate common customer complaints. Pinpoint 
 recurring problems to address them proactively and prevent future 
 escalations.
@@ -19,6 +21,7 @@ escalations.
 ![image](https://github.com/SumitTiwari1/Nile-s-Customer-Service-Data-Analysis-Dashboard/assets/167782156/8becf6e0-c54d-449d-a7ec-704d3fa6031c)
 
 • Service Response Time Analysis: 
+
 Analyze response times for customer 
 queries and support requests to assess the efficiency of the customer service 
 team.
@@ -26,6 +29,7 @@ team.
 ![image](https://github.com/SumitTiwari1/Nile-s-Customer-Service-Data-Analysis-Dashboard/assets/167782156/6b374026-d718-4eff-b02d-55036662ebda)
 
 • Customer Segmentation: 
+
 Segment customers based on their demographics, 
 behavior, and preferences. Understand different customer segments' needs 
 and pain points to tailor services and communications accordingly.
@@ -33,6 +37,7 @@ and pain points to tailor services and communications accordingly.
 ![image](https://github.com/SumitTiwari1/Nile-s-Customer-Service-Data-Analysis-Dashboard/assets/167782156/740a10a6-33ba-4c7a-b8a6-fcc3ae0a1b9e)
 
 • Trends and Patterns Identification: 
+
 Identify patterns and trends in customer 
 service data to uncover opportunities for process improvements and 
 innovative service offerings.
